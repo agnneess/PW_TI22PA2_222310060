@@ -23,7 +23,7 @@
     </style>
 </head>
 <body>
-    <h1>Oksigen mempunyai beberapa SIFAT FISIKA, diantaranya yang terdapat dalam tabel berikut:</h1>
+    <h1>Sifat Fisika Oksigen</h1>
 
     <table>
         <tr>
@@ -61,6 +61,26 @@
         <tr>
             <td>Energy ionisasi II (kJ/mol)</td>
             <td>3396</td>
+        </tr>
+        <tr>
+            <td>Kerapatan (g/cm<sup>3</sup>)</td>
+            <td>1.27 (padatan)</td>
+        </tr>
+        <tr>
+            <td>Titik leleh (°C)</td>
+            <td>+183</td>
+        </tr>
+        <tr>
+            <td>Titik beku (°C)</td>
+            <td>-219</td>
+        </tr>
+        <tr>
+            <td>Potensial elektroda (V)</td>
+            <td>+0.401</td>
+        </tr>
+        <tr>
+            <td>X<sub>2(g)</sub> + 2e<sup>-</sup> (aq) → 2X<sup>-</sup>(aq)</td>
+            <td>-</td>
         </tr>
     </table>
 
